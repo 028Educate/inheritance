@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\028 Educate\Code Solutions\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\user\Desktop\028 Educate\Code Solutions\inheritance\bin\Debug\inheritance.exe
+C:\Users\user\Desktop\028 Educate\Code Solutions\inheritance\bin\Debug\inheritance.pdb
+C:\Users\user\Desktop\028 Educate\Code Solutions\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\028 Educate\Code Solutions\inheritance\obj\Debug\inheritance.exe
+C:\Users\user\Desktop\028 Educate\Code Solutions\inheritance\obj\Debug\inheritance.pdb
